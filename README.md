@@ -7,5 +7,4 @@
 ![Screenshot](hasil/tampilanawal.jpg)
 
 ### Hasil conversi
-![Screenshot](hasil/conversi.jp
-g)
+![Screenshot](hasil/conversi.jpg)
